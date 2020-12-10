@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Ribeiro Baptista</h1>
-<h3 align="center">I am a Senior Software Engineer with over 10 years of experience building high availability and scalability systems.</h3>
+<h3 align="center">I'm a Senior Software Engineer with over 10 years of experience building high availability and scalability systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prbpedro&label=Profile%20views&color=0e75b6&style=flat" alt="prbpedro" /> </p>
 
