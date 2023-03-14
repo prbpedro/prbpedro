@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&rank=A&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=prbpedro&rank=A&theme=dracula" alt="prbpedro" /></a> </p>
 
-- 🔭 I’m currently working on [Pismo](pismo.io)
-
 - 📫 How to reach me **prbpedro@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12iumWObI4ktH3HHoCKTqNqXZdusiI1_sjYJFJQE8hPA/edit?usp=sharing](https://docs.google.com/document/d/12iumWObI4ktH3HHoCKTqNqXZdusiI1_sjYJFJQE8hPA/edit?usp=sharing)
